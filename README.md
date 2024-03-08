@@ -1,6 +1,6 @@
 # bitkub-api-v3
-python bitkub api
 
+# test
 import BitkubAPI
 
 api_key = ""
